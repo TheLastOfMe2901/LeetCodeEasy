@@ -1,0 +1,2 @@
+# LeetCodeEasy
+LeetCode Easy Solutions
